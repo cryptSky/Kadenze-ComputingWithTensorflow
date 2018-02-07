@@ -10,4 +10,4 @@ Goals:
 * Learn how to use convolution
 * Explore what representations exist in your dataset
 
-To check out this project, open [a relative link](session-1.ipynb) file
+To check out this project, open [session-1.ipynb](session-1.ipynb) file
